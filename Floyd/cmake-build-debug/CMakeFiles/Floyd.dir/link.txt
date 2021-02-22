@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Floyd.dir/main.cpp.o  -o Floyd.exe -Wl,--out-implib,libFloyd.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

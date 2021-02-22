@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/pankin/Desktop/Programming methods Practice/Hash First/main.cpp
+map
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+fstream
+-
+
